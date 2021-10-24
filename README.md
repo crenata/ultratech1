@@ -217,7 +217,7 @@ r00t's password hash cracked to `n100906` with `https://crackstation.net/`
 
 ---------------------------------
 
-- ***SSH***
+### SSH
 
 ```
 ssh r00t@10.10.247.171
